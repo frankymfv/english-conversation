@@ -20,10 +20,16 @@ about weather topic
 # weather temperature
 # weather phenomenon
 # weather types
+# idoms
 ```
+- provide me some idoms about this topic
+
+
 - Main Ideas – What are the 2–4 main points you want to talk about?
 
-- Supporting Details – Relevance, Examples, reasons, Advantages,Comparison ,Disadvantages, Counterpoint stories to explain your points based on main ideas, each ideas must contain all criterias
+- Supporting Details – Relevance, Examples, reasons, Advantages, Comparison,Disadvantages, Counterpoint stories to explain your points based on main ideas, each ideas must contain all criterias
+
+
 ```
 # Relevance – Ensure that your supporting details directly relate to and strengthen your main ideas.
 # Reasoning – Explain why your examples or facts matter. Show the connection between your supporting detail and your main point.
@@ -60,19 +66,8 @@ for example for supporting details, idea of should be formatted by bulleted list
 
 ```
 
-- Useful Structures Sentences for giving opinions, comparing, giving examples, etc., please give me at least 3 useful structures for each criteria
+- Useful Structures Sentences please let me know the sentence structure for each criteria, and give me at least 3 useful structures for each criteria, and at least 3 example sentences for each structure
 here is the format you can refer below format
-```
-# Giving Opinions
-# Giving Reasons
-# Expressing Preferences
-# Comparing and Contrasting
-# Giving Examples
-# Describing
-# Expressing Certainty or Uncertainty
-# Provide the advantage, disadvantage and why 
-```
-
 for example 
 ```
 
@@ -94,9 +89,13 @@ For Comparing:
 	5.	It’s better than + (activity)
 
 	•	“I think playing basketball is better than watching it because it’s more interactive.”
+For felling:
+	6. I find it + (adjective) to + do something
+	•	“I find it exciting to travel to new places.”
+
 ```
 
--  Possible Questions  Think about what questions someone might ask you about the topic, also please give me some example responses for each question, you can refer below example 
+-  Possible Questions  Think about what questions someone might ask you about the topic, also please give me at least 10 questions, and at least 3 example responses for each question, you can refer below example 
 
 ```
 1. Question: How does traveling help us learn new things?
@@ -106,25 +105,8 @@ We can see different cultures and ways of life when traveling. This will teach u
 2. Question: What new skills or hobbies did you pick up during your travels?
 Answers:
 I learned how to cook traditional dishes from the countries I visited.
-I picked up photography as a hobby to capture the beautiful places I traveled to.
-3. Question: How did you learn it?
-Answers:
-I took a local cooking class or workshop to learn the ropes of making traditional dishes.
-I improved my photography skills by practicing on every trip. I love keeping my travel memories in well-taken photos.
-4. Question: How has that skill or hobby helped you in life?
-Answers:
-It has made me more confident and allowed me to share different cultures with my friends and family.
-Photography has helped me capture and share my travel experiences, creating lasting memories.
-5. Question: How do you balance learning new skills with relaxing during your travels?
-Answers:
-I set aside specific times for learning new skills and make sure to schedule a lot of downtime to relax.
-I try to combine relaxing activities with my learning process.
-6. Question: What skills or hobbies are you eager to learn on your next trip?
-Answers:
-I want to learn scuba diving on my next trip to explore underwater life.
-I am eager to learn painting to capture the beautiful landscapes I will see.
-7. Question: How do you usually find opportunities to learn new things on a trip?
-Answers:
-I look for local classes or workshops online before my trip and book them.
-I ask locals or other travelers for recommendations on interesting activities and learning opportunities.
+I picked up photography as a hobby to capture the beautiful places I traveled to
 ```
+
+
+- Create a sample conversation for the topic that three people are talking about the topic, please give me at least 3 sample conversations for each topic and use the vocabulary, idoms, structures sentences you provided above and hightlight the key words and phrases in the conversation

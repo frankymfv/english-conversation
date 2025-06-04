@@ -43,27 +43,15 @@ about weather topic
 for example for supporting details, idea of should be formatted by bulleted list 
 ```
 ### Benefits of Having Hobbies
-
 #### Relevance
 - Hobbies provide a break from routine, develop new skills, and offer personal fulfillment outside of work responsibilities. 
 - They allow people to discover passions and interests that can lead to lifelong enjoyment.
-
 #### Examples
 - A software developer who takes up hiking on weekends finds that time in nature helps counterbalance long hours in front of a computer.
-- Someone who learns poker develops strategic thinking skills that help them in their business negotiations.
-- A busy professional who practices yoga for 20 minutes each morning reports feeling more centered and focused throughout the workday.
-
 #### Advantages
 - Hobby groups bring together people who might not otherwise meet
-- Shared activities create natural bonding experiences
-- Regular hobby meetings provide consistent social contact
-- Online hobby communities extend connection possibilities globally
-
 #### Counterpoint
 - Risk of Injury – Activities like running, hiking, and cycling can cause strain or injury, especially for those new to exercise or with health conditions.
-- Stress from Expectations – The pressure to maintain a regular exercise routine or meet fitness goals can sometimes create additional stress or anxiety.
-- Not Universally Enjoyable – Some individuals may not enjoy these activities, making it harder for them to experience the supposed mental health benefits.
-
 ```
 
 - Useful Structures Sentences please let me know the sentence structure for each criteria, and give me at least 3 useful structures for each criteria, and at least 3 example sentences for each structure
@@ -109,4 +97,4 @@ I picked up photography as a hobby to capture the beautiful places I traveled to
 ```
 
 
-- Create a sample conversation for the topic that three people are talking about the topic, please give me at least 3 sample conversations for each topic and use the vocabulary, idoms, structures sentences you provided above and hightlight the key words and phrases in the conversation
+- Create a sample conversation for the topic that three people are talking about the topic, please give me at least 3 sample long conversations with 3 people and at least 30 sentences for each topic and use the vocabulary, idoms, structures sentences you provided above and hightlight the key words and phrases in the conversation
